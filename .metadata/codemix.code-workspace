@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\LENOVO\\Desktop\\Min\\Workspace\\Servers"
+    },
+    {
+      "path": "C:\\Users\\LENOVO\\Desktop\\Min\\Workspace\\Test"
+    },
+    {
+      "path": "C:\\Users\\LENOVO\\Desktop\\Min\\Workspace\\Test01"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true
+  }
+}
